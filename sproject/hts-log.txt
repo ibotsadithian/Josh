@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 13 Sep 2023 11:35:24 at https://layerdrops.com/oxpinshtml/main-html/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps0u2%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F  -%F  -%l "en, *" https://layerdrops.com/oxpinshtml/main-html/index.html -O1 "C:\My Web Sites\sproject" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:36:41	Error: 	"Not Found" (404) at link https://layerdrops.com/oxpinshtml/main-html/assets/vendors/owl-carousel/owl.video.play.png (from https://layerdrops.com/oxpinshtml/main-html/assets/vendors/owl-carousel/owl.carousel.min.css)
+11:36:41	Error: 	"Not Found" (404) at link https://layerdrops.com/oxpinshtml/main-html/assets/vendors/images/icon/bx_loader.gif (from https://layerdrops.com/oxpinshtml/main-html/assets/vendors/bxslider/jquery.bxslider.css)
+11:36:41	Error: 	"Not Found" (404) at link https://layerdrops.com/oxpinshtml/main-html/assets/vendors/img/bx-slider/controls.png (from https://layerdrops.com/oxpinshtml/main-html/assets/vendors/bxslider/jquery.bxslider.css)
+11:36:41	Error: 	"Not Found" (404) at link https://layerdrops.com/oxpinshtml/main-html/assets/vendors/vegas/overlays/02.png (from https://layerdrops.com/oxpinshtml/main-html/assets/vendors/vegas/vegas.min.css)
+11:36:41	Error: 	"Not Found" (404) at link https://layerdrops.com/oxpinshtml/main-html/assets/vendors/timepicker/images/ui-icons_444444_256x240.png (from https://layerdrops.com/oxpinshtml/main-html/assets/vendors/timepicker/timePicker.css)
+11:36:41	Error: 	"Not Found" (404) at link https://layerdrops.com/oxpinshtml/main-html/team-details.html (from https://layerdrops.com/oxpinshtml/main-html/index2.html)
+11:36:41	Error: 	"Not Found" (404) at link https://layerdrops.com/oxpinshtml/main-html/wishlist.html (from https://layerdrops.com/oxpinshtml/main-html/product-details.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 17 seconds : 329 links scanned, 322 files written (18914844 bytes overall) [14536330 bytes received at 188783 bytes/sec], 6224562 bytes transferred using HTTP compression in 98 files, ratio 27%, 82.2 requests per connection
+(7 errors, 0 warnings, 0 messages)
